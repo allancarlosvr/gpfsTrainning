@@ -22,7 +22,7 @@ Welcome to the IBM Spectrum Scale (GPFS) Hands-On Lab! This training is split in
 - Debugging commands and patterns
 - System health checks
 
-📂 [Go to Day 2 (Not ready!) →](Day2/README.md)
+📂 Go to Day 2 (Not ready!) →
 
 ---
 
