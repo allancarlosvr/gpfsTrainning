@@ -9,7 +9,7 @@ Welcome to the IBM Spectrum Scale (GPFS) Hands-On Lab! This training is split in
 - Floating IPs for CES
 - NFS Exports
 - Quotas (User, Group, Fileset)
-- Node Classes, Health and Licensing Overview
+- Node Classes, Health and Network introduction
 
 📂 [Go to Day 1 →](Day1/README.md)
 
