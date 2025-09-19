@@ -11,7 +11,7 @@ Welcome to the IBM Spectrum Scale (GPFS) Hands-On Lab! This training is split in
 - Quotas (User, Group, Fileset)
 - Node Classes, Health and Network introduction
 
-📂 [Go to Day 1 →]()
+📂 [Go to Day 1 →](Day1/README.md)
 
 ---
 
