@@ -1,4 +1,3 @@
-
 ## Module 4 - CES Services
 
 ### **Step 1** – Confirm CES Is Running on Nodes:
